@@ -1,0 +1,20 @@
+My second file for theNotes:
+
+To use the defaults you can use the `-d` flag
+You can set a default version tag prefix if you prefer. eg: `v`
+$ git flow init [-d]
+Which branch should be used for bringing forth production releases?
+   - develop
+   - main
+Branch name for production releases: [main]
+
+Which branch should be used for integration of the "next release"?
+   - develop
+Branch name for "next release" development: [develop]
+
+How to name your supporting branch prefixes?
+Feature branches? [feature/]
+Release branches? [release/]
+Hotfix branches? [hotfix/]
+Support branches? [support/]
+Version tag prefix? [] 
